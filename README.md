@@ -34,4 +34,4 @@ All you need is a modern web browser:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/yourusername/exam-seating-plan-pro.git](https://github.com/yourusername/exam-seating-plan-pro.git)
+   git clone [https://github.com/jitsa007/exam-seating-plan-pro.git](https://github.com/yourusername/exam-seating-plan-pro.git)
